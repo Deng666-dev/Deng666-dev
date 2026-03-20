@@ -14,12 +14,6 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deng666-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deng666-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-</p>
-
-<p align="left">
-  <img src="[替换成你之前那张图片的链接](https://github.com/user-attachments/assets/771d2262-a2d5-433b-81df-aee7d814aa70)" style="width: 100 %; height: 250 px; object-fit: cover; border-radius: 8 px;" alt="Banner" />
+  <img src="[替换成你之前那张图片的链接](https://github.com/user-attachments/assets/771d2262-a2d5-433b-81df-aee7d814aa70)" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;" alt="Banner" />
 </p>
