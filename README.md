@@ -6,11 +6,20 @@
 
 ---
 
+## About Me
+
+- 🎓 Sophomore majoring in Information Security, based in Chongqing.
+- 🛡️ Focusing on Web Security, Penetration Testing, Linux，equal protection and CTF.
+- 💻 Learn and explore Linux (ununtu/centos), delve into penetration testing and network security.
+- 📝 Documenting my learning journey on [My Blog](https://deng666-dev.github.io/).
+
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,python,html,css,js,bash,git,github,vim,docker,vscode,vmware&theme=dark" alt="Skill Icons" />
 </p>
 
-<p align="left">
+<br/>
+
+<p align="center">
   <img src="https://count.getloli.com/get/@Deng666-dev?theme=asoul" alt="Moe Count" />
 </p>
