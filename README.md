@@ -1,4 +1,6 @@
 <div align="center">
+  
+![背景](https://github.com/user-attachments/assets/95d2d65b-c924-4623-a65d-fd0427eba26e)
 
 <h1>Hi, I'm vodka 👋</h1>
 
@@ -25,8 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Deng666-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deng666-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
-
-<br/>
 
 <p>
   <a href="https://deng666-dev.github.io/">🌐 Blog</a> • 
