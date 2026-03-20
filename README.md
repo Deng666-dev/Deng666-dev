@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Information+Security;Web+Security+%26+CTF;Keep+Learning,+Keep+Hacking" alt="Typing SVG" />
 </a>
 
-<p>Focusing on <b>Web Security</b>, <b>Penetration Testing</b> & <b>Linux Systems</b>.</p>
-
-<br/>
-
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Web_Security-000000?style=for-the-badge&logo=security&logoColor=white" />
